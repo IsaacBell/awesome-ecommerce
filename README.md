@@ -89,6 +89,7 @@
 - [PostHog](https://posthog.com) - Open-source product analytics, session recording, and feature flags.
 - [Google Analytics 4](https://marketingplatform.google.com/about/analytics/) - Google's event-based analytics platform with ecommerce reports.
 - [Triple Whale](https://www.triplewhale.com) - Ecommerce analytics dashboard consolidating ad spend, sales, and profitability.
+- [FlipWorth](https://flipworth.silentdirectivellc.com/?utm_source=awesome-ecommerce&utm_medium=resource-directory) - Photo-based resale price research for secondhand sellers: snap an item and get an estimated resale range, a buy or pass verdict, a suggested list price and where to sell it. Free to try in the browser, also on iPhone.
 
 ## Content Management
 
