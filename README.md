@@ -90,6 +90,7 @@
 - [Google Analytics 4](https://marketingplatform.google.com/about/analytics/) - Google's event-based analytics platform with ecommerce reports.
 - [Triple Whale](https://www.triplewhale.com) - Ecommerce analytics dashboard consolidating ad spend, sales, and profitability.
 - [FlipWorth](https://flipworth.silentdirectivellc.com/?utm_source=awesome-ecommerce&utm_medium=resource-directory) - Photo-based resale price research for secondhand sellers: snap an item and get an estimated resale range, a buy or pass verdict, a suggested list price and where to sell it. Free to try in the browser, also on iPhone.
+- [Etsy Sales MCP](https://github.com/GeminiGeorge22/etsy-sales-mcp) - Open-source MCP server for AI assistants: Etsy search results by keyword and category, plus daily sales counts and growth for any Etsy shop.
 - [OneLence](https://onelence.com) - Marketing analytics for brands and marketing teams that finds growth opportunities across paid, SEO, AI search visibility (GEO/AEO) and affiliates, and shows which channels to scale, stop or investigate next.
 
 ## Content Management
