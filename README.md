@@ -72,6 +72,7 @@
 - [DSers](https://www.dsers.com) - AliExpress dropshipping and order-fulfillment tool for Shopify stores.
 - [Spocket](https://www.spocket.co) - Dropshipping marketplace with fast shipping from US and EU suppliers.
 - [Zendrop](https://www.zendrop.com) - Dropshipping platform with automated fulfillment and one-click product import.
+- [PlushSource](https://plushsource.com) - Free directory of 55 custom plush manufacturers for sourcing private-label plush toys, with an open-source MCP server for AI assistants.
 
 ## Subscriptions & Recurring Billing
 
